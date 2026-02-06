@@ -1,5 +1,5 @@
 # Homebrew formula for Butterfly Security CLI
-# To install: brew install mickolasjae/butterfly/butterfly
+# To install: brew install butterfly-security/tap/butterfly
 
 class Butterfly < Formula
   desc "Okta backup and recovery from your terminal"

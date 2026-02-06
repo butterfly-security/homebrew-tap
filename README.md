@@ -5,7 +5,7 @@ Okta backup and recovery from your terminal.
 ## Install
 
 ```bash
-brew install mickolasjae/butterfly/butterfly
+brew install butterfly-security/tap/butterfly
 ```
 
 ## Usage
@@ -29,7 +29,13 @@ brew upgrade butterfly
 
 ```bash
 brew uninstall butterfly
-brew untap mickolasjae/butterfly
+brew untap butterfly-security/tap
+```
+
+## Alternative: Install via npm
+
+```bash
+npm install -g @butterfly-security/cli
 ```
 
 ## Links
